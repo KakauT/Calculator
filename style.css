@@ -1,0 +1,67 @@
+body {
+    width: 90%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    background: rgb(33, 33, 33)
+}
+
+input {
+    color: rgb(238, 238, 238);
+    padding: 17px;
+    outline: none;
+    font-size: 30px;
+    border-radius: 20%;
+}
+
+.num {
+    width: 64px;
+    height: 67px;
+}
+
+.text {
+    width: 160px;
+    height: 26px;
+    border-radius: 22px;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.text1 {
+    width: 24px;
+    height: 26px;
+    border-radius: 50%;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+    cursor: pointer;
+}
+
+.main {
+    display: inline-block;
+}
+
+.maincolor {
+    background-color: rgb(13, 115, 119);
+}
+
+.pluscolor {
+    background-color: rgb(50, 224, 196);
+}
+
+.minuscolor {
+    background-color: rgb(50, 224, 196);
+}
+
+.timescolor {
+    background-color: rgb(50, 224, 196);
+}
+
+.equalscolor {
+    background-color: rgb(50, 224, 196);
+}
+
+.divisioncolor {
+    background-color: rgb(50, 224, 196);
+}
